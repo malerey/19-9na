@@ -37,14 +37,3 @@ input {
   position: relative;
   right: 25px;
 }
-
-.div-antes-imagen {
-  width: 400px;
-  height: 300px;
-  border: 2px dashed red;
-  overflow: hidden;
-}
-
-.imagen-gatito {
-  width: 100%;
-}
